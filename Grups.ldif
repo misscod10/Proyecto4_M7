@@ -1,0 +1,11 @@
+dn: cn=Professors,ou=Grups,dc=jda,dc=org
+objectClass: top
+objectClass: posixGroup
+gidNumber: 2000
+cn: Professors
+
+dn: cn=Alumnes,ou=Grups,dc=jda,dc=org
+objectClass: top
+objectClass: posixGroup
+gidNumber: 2001
+cn: Alumnes

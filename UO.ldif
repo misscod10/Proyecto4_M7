@@ -1,0 +1,19 @@
+dn: ou=Usuaris,dc=jda,dc=org
+objectClass: top
+objectClass: organizationalUnit
+ou: Usuaris
+
+dn: ou=Grups,dc=jda,dc=org
+objectClass: top
+objectClass: organizationalUnit
+ou: Grups
+
+dn: ou=Professors,dc=jda,dc=org
+objectClass: top
+objectClass: organizationalUnit
+ou: Professors
+
+dn: ou=Alumnes,dc=jda,dc=org
+objectClass: top
+objectClass: organizationalUnit
+ou: Alumnes
