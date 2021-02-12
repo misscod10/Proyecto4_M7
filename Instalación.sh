@@ -2,6 +2,7 @@
 
 sudo apt-get update
 sudo apt-get install squid
+sudo apt-get install apache2-utils
 sudo cp squid.conf /etc/squid/squid.conf
 sudo cp urls-bloqueadas.txt /etc/squid/urls-bloqueadas.txt 
 sudo cp archivos_a_bloquear.txt /etc/squid/archivos_a_bloquear.txt 
